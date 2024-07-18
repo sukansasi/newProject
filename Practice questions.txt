@@ -1,0 +1,6 @@
+1.How to find single webelement using id, name, linkText?
+2.how to find group of webelements?
+3.if locator is pointing single webelement, how will it behave using findElement and Group of elements?
+4.if locator is matching mulitiple element, how will it behave using findElement and Group of elements?
+5.If locator is not matching with any element, how will it behave using findElement and Group of elements?
+6.How to find a element using  
