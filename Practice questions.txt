@@ -3,4 +3,4 @@
 3.if locator is pointing single webelement, how will it behave using findElement and Group of elements?
 4.if locator is matching mulitiple element, how will it behave using findElement and Group of elements?
 5.If locator is not matching with any element, how will it behave using findElement and Group of elements?
-6.How to find a element using  
+6.How to find a element using  CSS Selector (1)tag and id (2)tag and class(2class names) (3)tag and attribute (4)tag, class and attribute
