@@ -15,3 +15,18 @@
 15.Chained x path?when will we use it?
 16.why are we using single slash in absolute and double slash in relative x path?
 17.difference b/w CSS and x path?
+18.CSS selector can traverse through Topdown or all directions?
+19.How will Chained x path traverse?
+20.how to locate parent element?
+21Locate child element?
+22.Locate descendant and ancestor element?
+23.Locate  grand children element?
+24. Locate following element?
+25.Locate following-sibling element?
+26.difference b/w following and foloowing sibling?
+27.Locate preceding and preceding-sibling element?
+28.difference b/w preceding and preceding-sibling?
+29. use this site: https://money.rediff.com/gainers/bse/daily/groupa (for ques.20 to 27)
+
+
+
