@@ -1,0 +1,16 @@
+1. Why is Java object-oriented program ?
+2. What is JDK,JRE,JVM?
+3. JVM is an interpreter or complier?
+4. What are all needed to create a java program ? Minimum requirement
+5. Naming convention for class
+6. Naming convention for variables and methods?
+7 . How will you identify methods?
+8. Different types of datatype
+9. What is typecasting? Types of typecasting?
+10. Non primitive to primitive typecasting? And vice versa
+11. What is array? When are we using it?
+12. How to declare and initialize array?
+13. Can you change the array size? If you try to add more values above size range to array,  what will happen?
+14. Write the code: I want to print the output in the same line  and newline
+15. What is arithmetic exception error?
+16. Why are we using comments?
