@@ -59,8 +59,8 @@ Day - 3
     FileInputStream fis = new FileInputStream();
 33.Why are we creating objects?
 34.If you print the object , what will it print?
-35.Can we call a method with object? how? 
-36.if we want to call a method from other without using object ?how?
+35.Can we call a method without object? how? 
+36.if we want to call a method from other class without using object? how?
 37.Explain which one is class, object, method
    Boolean.parseBoolean();
    String.valueOf();
