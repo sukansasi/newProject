@@ -18,6 +18,7 @@ Day - 1
 16. Why are we using comments?
 ---------------------------------------------------------------------------------------------
 Day - 2
+
 write code:
 17.Swap the values?
 18.Do the addition, subtraction , multiplication, division using 2 variables?
@@ -35,7 +36,9 @@ write code:
 23.What is assignment operator?
 24.List out Logical operators?
 25.List out Comparison operators?
+------------------------------------------------------------------------------------------------------
 Day - 2 Night Session
+
 26.People are choosing different games to play like Football , BasketBall, Tennis, Rugby
   People who choose Football , they should go to Block1.
   People who choose Rugby, they should go to Block2
@@ -46,6 +49,27 @@ Day - 2 Night Session
    If you are planning to book for above ten people ,(a) For 10 to 20 ,have to book Premium seaters 
    (b)above 20 means you should go with mini hall option. 
    Hotel wont take above 100 people
+--------------------------------------------------------------------------------------------------------------------
+Day - 3
+29. What is constructor method?
+30.when are we calling constructor method?
+31.Name convention for constructor method?
+32. Explain which one is class, object and etc.
+    Scanner sc = new Scanner(System.in);
+    FileInputStream fis = new FileInputStream();
+33.Why are we creating objects?
+34.If you print the object , what will it print?
+35.Can we call a method with object? how? 
+36.if we want to call a method from other without using object ?how?
+37.Explain which one is class, object, method
+   Boolean.parseBoolean();
+   String.valueOf();
+39.Print odd numbers using for loop?
+40.Where can use for-each loop?
+41.print even numbers from 2 using while loop?
+42.create an array . 1) Access all the elements using for and for-each loop
+                     2)Access specific element
+
 
 
 
