@@ -43,7 +43,9 @@ Day - 2 Night Session
   People who choose basket ball, they should go to Block4
 27.Check the number whether it is positive or negative . Print positive number or negative number without using if else?
 28.You are going to book a table at Hotel .They have only 4 seaters(Small) and 10 seaters (Large). 
-   If you are planning to book for above ten people ,(a) For 10 to 20 ,have to book Premium seaters (b)above 20 means you should go with mini hall option
+   If you are planning to book for above ten people ,(a) For 10 to 20 ,have to book Premium seaters 
+   (b)above 20 means you should go with mini hall option. 
+   Hotel wont take above 100 people
 
 
 
