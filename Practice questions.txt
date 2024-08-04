@@ -1,39 +1,6 @@
-Session - 22 
 1.How to find single webelement using id, name, linkText?
 2.how to find group of webelements?
-3.if locator is pointing single webelement, how will it behave using findElement and Group of elements?
-4.if locator is matching mulitiple element, how will it behave using findElement and Group of elements?
-5.If locator is not matching with any element, how will it behave using findElement and Group of elements?
-Session - 23
-6.How to find an element using  CSS Selector (1)tag and id (2)tag and class(2class names) (3)tag and attribute (4)tag, class and attribute
-Session - 24 
-7.difference absolute and relative x path? which one is preferred ? why?
-8.x path with single attribute?
-9.x path with multiple attribute?
-10.x path using 'and' & 'or' operators?
-11.x path with innertext?
-12.x path using contains?
-13.x path using starts-with?
-14.how to find an element with x path using dynamic attributes?
-15.Chained x path?when will we use it?
-16.why are we using single slash in absolute and double slash in relative x path?
-17.difference b/w CSS and x path?
-18.CSS selector can traverse through Topdown or all directions?
-19.How will Chained x path traverse?
-Session - 25
-20.how to locate parent element?
-21Locate child element?
-22.Locate descendant and ancestor element?
-23.Locate  grand children element?
-24. Locate following element?
-25.Locate following-sibling element?
-26.difference b/w following and foloowing sibling?
-27.Locate preceding and preceding-sibling element?
-28.difference b/w preceding and preceding-sibling?
-29. use this site: https://money.rediff.com/gainers/bse/daily/groupa (for ques.20 to 27)
-Session - 26
-30.Implement get methods
-31.Implement Conditional methods
-32.Implement Browser Methods
-
-
+3.if locator is pointing single web element, how will it behave using find Element and Group of elements?
+4.if locator is matching multiple element, how will it behave using find Element and Group of elements?
+5.If locator is not matching with any element, how will it behave using find Element and Group of elements?
+6.How to find a element using  CSS Selector (1)tag and id (2)tag and class(2class names) (3)tag and attribute (4)tag, class and attribute

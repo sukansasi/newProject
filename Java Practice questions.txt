@@ -71,6 +71,15 @@ Day - 3
                      2)Access specific element
 
 
+Day - 4
+
+43.Create two Packages, under One package create one Parent class, child class, Normal Class. In another Package, Create child and normal class. Use Access modifier Options (Refer Access Modifier Pic)
+44.What is Polymorphism? types?
+45.Method Overloading?
+46.Method Overriding?
+47.Encapsulation?
+48.MultiDimensional Array?
+
 
 
 
